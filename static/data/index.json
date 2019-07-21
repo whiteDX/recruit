@@ -1,0 +1,43 @@
+{
+  "ret": true,
+  "data": {
+    "recommendList": [{
+      "id": "1",
+      "jobName": "前端实习生",
+      "jobIncome": "￥150-200/天",
+      "comImg": "https://sxsimg.xiaoyuanzhao.com/78/EE/78ABE0CC8D69898D979FB0DE003910EE.png",
+      "comName": "拓尔思",
+      "date": "07月15日"
+
+    },{
+      "id": "2",
+      "jobName": "Web软件工程师实习",
+      "jobIncome": "￥150-200/天",
+      "comImg": "https://sxsimg.xiaoyuanzhao.com/69/8D/69D89E01806ACAEE6472C6D5D5C7CC8D.jpg",
+      "comName": "字节跳动",
+      "date": "07月15日"
+
+    },
+      {
+        "id": "3",
+      "jobName": "Web前端开发",
+      "jobIncome": "￥300-350/天",
+      "comImg": "https://sxsimg.xiaoyuanzhao.com/E0/13/E0E0DCEDEA7C14F2CA314C2A53576613.png",
+      "comName": "扇贝",
+      "date": "07月14日"
+    }],
+    "swiperList": [{
+      "id": "0001",
+      "imgUrl": "https://sxsimg.xiaoyuanzhao.com/adservice/image/20190715091414HNhzBIjA2mjsJFqtMs.png"
+    },{
+      "id": "0002",
+      "imgUrl": "https://sxsimg.xiaoyuanzhao.com/adservice/image/20190626112135EPhFClIOUZLd9fMxjc.png"
+    },{
+      "id": "0003",
+      "imgUrl": "https://sxsimg.xiaoyuanzhao.com/adservice/image/20190704171948rgUiFFfDBHOoYojhR8.png"
+    },{
+      "id": "0004",
+      "imgUrl": "https://sxsimg.xiaoyuanzhao.com/adservice/image/20190715134356aYOmtrVr9elwH6ABkF.png"
+    }]
+  }
+}

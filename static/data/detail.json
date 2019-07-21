@@ -1,0 +1,44 @@
+{
+  "ret": true,
+  "data": [{
+    "jobName": "前端实习生",
+    "jobIncome": "￥150-200/天",
+    "comImg": "https://sxsimg.xiaoyuanzhao.com/78/EE/78ABE0CC8D69898D979FB0DE003910EE.png",
+    "comPosition": "南京市建邺区舜禹大厦",
+    "comName": "拓尔思",
+    "date": "07月15日",
+    "positionStatement": [
+      {"id": "1",
+        "content":"岗位职责："},
+      {"id": "2","content":"1.负责公司软件web前端设计"}],
+    "jobRquire": [
+      {"id": "1","content":"任职要求："},
+      {"id": "2","content":"1、计算机、软件工程或相关专业，2020-2021年本科毕业"},
+      {"id": "3","content":"2、热爱编程，熟悉Html，CSS，Javascript开发"},
+      {"id": "4","content":"3、能通过设计切网页页面"},
+      {"id": "5","content":"4、有较强的学习能力、创新能力及抗压能力，真诚敬业、踏实肯干、富有钻研精神、具有良好的团队合作精神和协作能力"},
+      {"id": "6","content":"5、有独立开发网站和页面特效开发的技术功底，优化代码并保持良好兼容性，具有程序安全和性能优化意识"},
+      {"id": "7","content":"6、至少连续实习3个月" }
+    ]},
+    {
+      "jobName": "Web软件工程师实习",
+      "jobIncome": "￥150-200/天",
+      "comImg": "https://sxsimg.xiaoyuanzhao.com/69/8D/69D89E01806ACAEE6472C6D5D5C7CC8D.jpg",
+      "comName": "字节跳动",
+      "comPosition": "南京市建邺区舜禹大厦",
+      "date": "07月15日",
+      "positionStatement": [
+        {"id": "1","content":"岗位职责："},
+        {"id": "2","content":"1.负责公司软件web前端设计"}],
+      "jobRquire": [
+        {"id": "1","content":"任职要求："},
+        {"id": "2","content":"1、计算机、软件工程或相关专业，2020-2021年本科毕业"},
+        {"id": "3","content":"2、热爱编程，熟悉Html，CSS，Javascript开发"},
+        {"id": "4","content":"3、能通过设计切网页页面"},
+        {"id": "5","content":"4、有较强的学习能力、创新能力及抗压能力，真诚敬业、踏实肯干、富有钻研精神、具有良好的团队合作精神和协作能力"},
+        {"id": "6","content":"5、有独立开发网站和页面特效开发的技术功底，优化代码并保持良好兼容性，具有程序安全和性能优化意识"},
+        {"id": "7","content":"6、至少连续实习3个月" }
+      ]
+    }
+  ]
+}
